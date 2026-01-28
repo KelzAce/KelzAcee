@@ -11,8 +11,9 @@ I'm a Software Engineer, Musician, and I'm passionate about sharing knowledge.
     - I studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
     - I'm currently studying at Brigham Young University Idaho [BYUi](https://www.byui.edu/) Class of 2025.
 - 🌱 I’m currently learning Python and I write Express and NestJS for backend Stacks.
+- I write asp.net and have solid experience building for enterprise and i enjoy collaboration alot
 - 😊 I’m Open to work with the above technologies,hackathons, and entry-level opportunities for other technologies.
 - 💼 Job interests: Software Engineer (Junior level, Mid-level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1lwp4Ktp8gK5MQVVzJuQ3PhkGa3SfW8gy/view?usp=sharing) and contact me by emailing ikechigreat@gmail.com. 
+- 📫 You can [view my resume](https://drive.google.com/file/d/1Re5_xCkwWsAapgu7VawNGDkcspbNXvBu/view?usp=sharing) and contact me by emailing ikechigreat@gmail.com. 
 
 ---
